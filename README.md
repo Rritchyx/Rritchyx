@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rritchyx
 - 👀 I’m interested in creting hosts for blockchains
-- 🌱 I’m currently learning english and more about Evernode with SSL
+- 🌱 I’m currently learning english and more about XRPL nodes with SSL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : here sometimes
 - 😄 Pronouns: ...
